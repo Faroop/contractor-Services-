@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>General Contractor about page</title>
+  <meta charset="utf-8"/>
+  <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+
+<nav class="w3-bar w3-orange">
+  <a href="#home" class="w3-button w3-bar-item">Home</a>
+  <a href="#band" class="w3-button w3-bar-item">Services</a>
+  <a href="#tour" class="w3-button w3-bar-item">About</a>
+  <a href="#contact" class="w3-button w3-bar-item">Contact</a>
+</nav>
+  
+<div class="container">
+ <div class="nav">
+   
+  <h2>
+    ABOUT
+  </h2>
+  The purpose of this orginization is to bring individuals, companies and other entities together. Giving them access to a collective forum of projcets, tasks and employement. Main idea being to improve urbanization, community outreach, enviornmental enhancement, safety, and appeal. 
+  </div> 
+  <div class="main">
+ <h1>
+   Eco-Syn-chron-I-city
+  </h1>
+  Is one of the major premise of our work each one of those root words has a meaning associated to the work we do every day. Eco; refering to economy & ecology, Syn meaning synergy/ synonomous, chron meaing timely, I for the collective ego of the City. 
+  
+  <h3>Share the Beauty of your world with everyone else.
+  </h3>
+  <p>
+    Need a contract work done in town?
+    Use Our services to pair up with some of the most competitive professional and agenices in the business world today.
+    </p>    
+    <p>
+    Here is a <a href="cities.html">Link</a> to contact us.     </p>
+  </div>  
+  
+  <div>
+    <ul> </ul>
+     
+  
+  </div>
+  
+   <!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="card">
+  <img src="img.jpg" alt="JourneyMen" style="width:100%">
+  <div class="container">
+    <h1>Mudassir F. Sharif</h1>
+    <p class="title">CEO & Founder</p>
+    <a href="#"><i class="fa fa-dribbble"></i></a>
+    <a href="#"><i class="fa fa-twitter"></i></a>
+    <a href="#"><i class="fa fa-linkedin"></i></a>
+    <a href="#"><i class="fa fa-facebook"></i></a>
+    <p><button>Contact</button></p>
+  </div>
+</div>
+  
+  </div>
+
+</body>
+</html>
